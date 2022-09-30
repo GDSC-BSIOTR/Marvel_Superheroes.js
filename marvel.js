@@ -27,5 +27,11 @@
     "SuperPower": "Mystic arts"
     },
     
+    {
+    "Character Name": "Wanda",
+    "Reel Name": "Wanda",
+    "Actor Name": " Elizabeth Olsen",
+    "SuperPower": "telekinesis, telepathy, and energy"
+    }
 ]
 
