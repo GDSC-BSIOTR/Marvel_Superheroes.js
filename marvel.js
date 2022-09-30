@@ -34,6 +34,13 @@
     },
     
     {
+    "Character Name": "deadpool",
+    "Reel Name": "Wade Wilson",
+    "Actor Name": "rayn renolds",
+    "SuperPower": "incredible healing ability and master of all weapons"
+    },
+    
+    {
     "Character Name": "captain america",
     "Reel Name": "steve rogers",
     "Actor Name": "chris evans",
