@@ -47,6 +47,13 @@
     "SuperPower": "super humen strenth and god godlike abbilities"
     },
     
+    {
+    "Character Name": "Hawkeye",
+    "Reel Name": "Clinton Barton",
+    "Actor Name": "Jeremy Renner",
+    "SuperPower": "Trick shots(arrow) and swordsmen"
+    },
+    
 
 {
     "Character Name": "Iron Man",
