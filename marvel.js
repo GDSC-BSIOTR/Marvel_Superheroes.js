@@ -44,4 +44,10 @@
     "Actor Name": "Chadwick Aaron Boseman",
     "SuperPower": "Vibraniam Sute"
     }, 
+     {
+    "Character Name": "black widow",
+    "Reel Name": "black widow",
+    "Actor Name": "Natasha Romanoff",
+    "SuperPower": "Covert arts of espionage, infiltration & subterfuge."
+    }, 
   ]
