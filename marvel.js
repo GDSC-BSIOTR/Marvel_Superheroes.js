@@ -27,6 +27,12 @@
     "SuperPower": "Mystic arts"
     },
     {
+    "Character Name": "",
+    "Reel Name": "Ghost Rider ",
+    "Actor Name": "Robbie Reyes",
+    "SuperPower": "Breathing (and Peeing) Fire "
+    },
+
     "Character Name": "Wolverine",
     "Reel Name": "James Howlett",
     "Actor Name": "Huge Michal Jackman AC",
@@ -53,7 +59,6 @@
     "Actor Name": "Jeremy Renner",
     "SuperPower": "Trick shots(arrow) and swordsmen"
     },
-    
 
 {
     "Character Name": "Iron Man",
