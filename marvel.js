@@ -27,6 +27,12 @@
     "SuperPower": "Mystic arts"
     },
     {
+    "Character Name": "",
+    "Reel Name": "Ghost Rider ",
+    "Actor Name": "Robbie Reyes",
+    "SuperPower": "Breathing (and Peeing) Fire "
+    },
+
     "Character Name": "Wolverine",
     "Reel Name": "James Howlett",
     "Actor Name": "Huge Michal Jackman AC",
@@ -53,7 +59,6 @@
     "Actor Name": "Jeremy Renner",
     "SuperPower": "Trick shots(arrow) and swordsmen"
     },
-    
 
 {
     "Character Name": "Iron Man",
@@ -80,10 +85,23 @@
     "Actor Name": "Chadwick Aaron Boseman",
     "SuperPower": "Vibraniam Sute"
     }, 
+
     {
     "Character Name": "Winter Soldier",
     "Reel Name": "Bucky Barnes",
     "Actor Name": "James Buchanan",
     "SuperPower": "Enhanced strength, durability, speed, agility, reflexes, and healing"
     }, 
+     {
+    "Character Name": "black widow",
+    "Reel Name": "black widow",
+    "Actor Name": "Natasha Romanoff",
+    "SuperPower": "covert arts of espionage,infiltration & subterfuge."
+     }, 
+    {
+    "Character Name": "Hawkeye",
+    "Reel Name": "Clint Barton",
+    "Actor Name": "Jeremy Renner",
+    "SuperPower": "Goliath"
+    }
   ]
