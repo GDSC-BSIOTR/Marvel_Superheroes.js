@@ -27,6 +27,13 @@
     "SuperPower": "Mystic arts"
     },
     {
+    "Character Name": "Wolverine",
+    "Reel Name": "James Howlett",
+    "Actor Name": "Huge Michal Jackman AC",
+    "SuperPower": "Phoenix Force"
+    },
+    
+    {
     "Character Name": "Captain America",
     "Reel Name": "Captain America",
     "Actor Name": "Chris Evans",
