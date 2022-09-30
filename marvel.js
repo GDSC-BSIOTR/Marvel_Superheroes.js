@@ -103,5 +103,11 @@
     "Reel Name": "Clint Barton",
     "Actor Name": "Jeremy Renner",
     "SuperPower": "Goliath"
-    }
+    },
+    {
+        "Character Name": "Hulk",
+        "Reel Name": "Banner",
+        "Actor Name": "Mark Ruffalo",
+        "SuperPower": "SuperStrength"
+        }
   ]
