@@ -80,4 +80,10 @@
     "Actor Name": "Chadwick Aaron Boseman",
     "SuperPower": "Vibraniam Sute"
     }, 
+    {
+    "Character Name": "Winter Soldier",
+    "Reel Name": "Bucky Barnes",
+    "Actor Name": "James Buchanan",
+    "SuperPower": "Enhanced strength, durability, speed, agility, reflexes, and healing"
+    }, 
   ]
