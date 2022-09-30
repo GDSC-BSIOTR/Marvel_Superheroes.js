@@ -27,5 +27,47 @@
     "SuperPower": "Mystic arts"
     },
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    {
+    "Character Name": "Captain America",
+    "Reel Name": "Captain America",
+    "Actor Name": "Chris Evans",
+    "SuperPower": "Strong Fast and Sheild"
+    },
+    
 ]
 
