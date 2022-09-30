@@ -86,6 +86,12 @@
     "SuperPower": "Vibraniam Sute"
     }, 
 
+    {
+    "Character Name": "Winter Soldier",
+    "Reel Name": "Bucky Barnes",
+    "Actor Name": "James Buchanan",
+    "SuperPower": "Enhanced strength, durability, speed, agility, reflexes, and healing"
+    }, 
      {
     "Character Name": "black widow",
     "Reel Name": "black widow",
@@ -97,6 +103,5 @@
     "Reel Name": "Clint Barton",
     "Actor Name": "Jeremy Renner",
     "SuperPower": "Goliath"
-    },
-
+    }
   ]
