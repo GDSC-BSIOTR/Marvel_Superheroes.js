@@ -116,4 +116,12 @@
     "Actor Name": "Jeremy Renner",
     "SuperPower": "Goliath"
     },
+    
+  {
+    "Character Name": "AntMan",
+    "Reel Name": "Scott Lang",
+    "Actor Name": "Paul Rudd",
+    "SuperPower": "Ability to shrink"
+    },
+        
   ]
