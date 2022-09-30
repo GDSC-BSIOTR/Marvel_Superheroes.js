@@ -33,6 +33,14 @@
     "SuperPower": "Phoenix Force"
     },
     
+
+{
+    "Character Name": "Iron Man",
+    "Reel Name": "Taika Waititi",
+    "Actor Name": "Robert Downey Jr",
+    "SuperPower": "Incredible Speed"
+    },
+
     {
     "Character Name": "Captain America",
     "Reel Name": "Captain America",
