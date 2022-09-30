@@ -26,6 +26,12 @@
     "Actor Name": "Benedict Timothy Carlton Cumberbatch",
     "SuperPower": "Mystic arts"
     },
+    {
+    "Character Name": "Wolverine",
+    "Reel Name": "James Howlett",
+    "Actor Name": "Huge Michal Jackman AC",
+    "SuperPower": "Phoenix Force"
+    },
     
     {
     "Character Name": "captain america",
@@ -34,5 +40,30 @@
     "SuperPower": "super humen strenth and god godlike abbilities"
     },
     
-]
 
+{
+    "Character Name": "Iron Man",
+    "Reel Name": "Taika Waititi",
+    "Actor Name": "Robert Downey Jr",
+    "SuperPower": "Incredible Speed"
+    },
+
+    {
+    "Character Name": "Captain America",
+    "Reel Name": "Captain America",
+    "Actor Name": "Chris Evans",
+    "SuperPower": "Strong Fast and Sheild"
+    },
+    {
+    "Character Name": "Wanda",
+    "Reel Name": "Wanda",
+    "Actor Name": " Elizabeth Olsen",
+    "SuperPower": "telekinesis, telepathy, and energy"
+    },
+    {
+    "Character Name": "black panther",
+    "Reel Name": "black panther",
+    "Actor Name": "Chadwick Aaron Boseman",
+    "SuperPower": "Vibraniam Sute"
+    }, 
+  ]
