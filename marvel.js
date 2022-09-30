@@ -27,6 +27,47 @@
     "SuperPower": "Mystic arts"
     },
     {
+    "Character Name": "",
+    "Reel Name": "Ghost Rider ",
+    "Actor Name": "Robbie Reyes",
+    "SuperPower": "Breathing (and Peeing) Fire "
+    },
+
+    "Character Name": "Wolverine",
+    "Reel Name": "James Howlett",
+    "Actor Name": "Huge Michal Jackman AC",
+    "SuperPower": "Phoenix Force"
+    },
+    
+    {
+    "Character Name": "deadpool",
+    "Reel Name": "Wade Wilson",
+    "Actor Name": "rayn renolds",
+    "SuperPower": "incredible healing ability and master of all weapons"
+    },
+    
+    {
+    "Character Name": "captain america",
+    "Reel Name": "steve rogers",
+    "Actor Name": "chris evans",
+    "SuperPower": "super humen strenth and god godlike abbilities"
+    },
+    
+    {
+    "Character Name": "Hawkeye",
+    "Reel Name": "Clinton Barton",
+    "Actor Name": "Jeremy Renner",
+    "SuperPower": "Trick shots(arrow) and swordsmen"
+    },
+
+{
+    "Character Name": "Iron Man",
+    "Reel Name": "Taika Waititi",
+    "Actor Name": "Robert Downey Jr",
+    "SuperPower": "Incredible Speed"
+    },
+
+    {
     "Character Name": "Captain America",
     "Reel Name": "Captain America",
     "Actor Name": "Chris Evans",
@@ -44,10 +85,18 @@
     "Actor Name": "Chadwick Aaron Boseman",
     "SuperPower": "Vibraniam Sute"
     }, 
+
      {
     "Character Name": "black widow",
     "Reel Name": "black widow",
     "Actor Name": "Natasha Romanoff",
     "SuperPower": "covert arts of espionage,infiltration & subterfuge."
      }, 
+    {
+    "Character Name": "Hawkeye",
+    "Reel Name": "Clint Barton",
+    "Actor Name": "Jeremy Renner",
+    "SuperPower": "Goliath"
+    },
+
   ]
