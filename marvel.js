@@ -27,5 +27,12 @@
     "SuperPower": "Mystic arts"
     },
     
+    {
+    "Character Name": "Hawkeye",
+    "Reel Name": "Clinton Barton",
+    "Actor Name": "Jeremy Renner",
+    "SuperPower": "Trick shots(arrow) and swordsmen"
+    },
+    
 ]
 
