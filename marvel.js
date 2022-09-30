@@ -80,4 +80,11 @@
     "Actor Name": "Chadwick Aaron Boseman",
     "SuperPower": "Vibraniam Sute"
     }, 
+    {
+    "Character Name": "Hawkeye",
+    "Reel Name": "Clint Barton",
+    "Actor Name": "Jeremy Renner",
+    "SuperPower": "Goliath"
+    },
+    
   ]
