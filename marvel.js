@@ -26,6 +26,13 @@
     "Actor Name": "Benedict Timothy Carlton Cumberbatch",
     "SuperPower": "Mystic arts"
     },
+    {
+    "Character Name": "Wolverine",
+    "Reel Name": "James Howlett",
+    "Actor Name": "Huge Michal Jackman AC",
+    "SuperPower": "Phoenix Force"
+    },
+    
     
 ]
 
