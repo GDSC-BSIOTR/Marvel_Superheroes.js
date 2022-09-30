@@ -85,11 +85,18 @@
     "Actor Name": "Chadwick Aaron Boseman",
     "SuperPower": "Vibraniam Sute"
     }, 
+
+     {
+    "Character Name": "black widow",
+    "Reel Name": "black widow",
+    "Actor Name": "Natasha Romanoff",
+    "SuperPower": "covert arts of espionage,infiltration & subterfuge."
+     }, 
     {
     "Character Name": "Hawkeye",
     "Reel Name": "Clint Barton",
     "Actor Name": "Jeremy Renner",
     "SuperPower": "Goliath"
     },
-    
+
   ]
