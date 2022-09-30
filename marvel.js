@@ -26,6 +26,11 @@
     "Actor Name": "Benedict Timothy Carlton Cumberbatch",
     "SuperPower": "Mystic arts"
     },
-    
+    {
+    "Character Name": "",
+    "Reel Name": "Ghost Rider ",
+    "Actor Name": "Robbie Reyes",
+    "SuperPower": "Breathing (and Peeing) Fire "
+    },
 ]
 
