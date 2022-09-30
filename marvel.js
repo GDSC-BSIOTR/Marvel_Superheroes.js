@@ -27,5 +27,12 @@
     "SuperPower": "Mystic arts"
     },
     
-]
 
+
+
+    {
+    "Character Name": "black panther",
+    "Reel Name": "black panther",
+    "Actor Name": "Chadwick Aaron Boseman",
+    "SuperPower": "Vibraniam Sute"
+    },   
