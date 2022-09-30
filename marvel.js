@@ -27,5 +27,12 @@
     "SuperPower": "Mystic arts"
     },
     
+    {
+    "Character Name": "captain america",
+    "Reel Name": "steve rogers",
+    "Actor Name": "chris evans",
+    "SuperPower": "super humen strenth and god godlike abbilities"
+    },
+    
 ]
 
