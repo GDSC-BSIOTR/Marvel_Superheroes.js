@@ -123,5 +123,15 @@
     "Actor Name": "Paul Rudd",
     "SuperPower": "Ability to shrink"
     },
-        
+    {
+
+    "Character Name": "Iron Man",
+
+    "Reel Name": "Tony Stark",
+
+    "Actor Name": "Robert Downey Jr.",
+
+    "SuperPower": "superhuman strength"
+
+    },    
   ]
