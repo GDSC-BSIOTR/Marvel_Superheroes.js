@@ -117,12 +117,19 @@
     "SuperPower": "Goliath"
     },
     
-  {
+
+
+
+
+
+
+{
     "Character Name": "AntMan",
     "Reel Name": "Scott Lang",
     "Actor Name": "Paul Rudd",
     "SuperPower": "Ability to shrink"
     },
+
     {
 
     "Character Name": "Iron Man",
@@ -134,4 +141,26 @@
     "SuperPower": "superhuman strength"
 
     },    
+
+
+    {
+      "Character Name": "Punisher",
+      "Reel Name": "Frank Castle",
+      "Actor Name": "Jon Bernthal",
+      "SuperPower": "None"
+      }
+
+  {
+
+    "Character Name": "Iron Man",
+
+    "Reel Name": "Taika Waititi",
+
+    "Actor Name": "Robert Downey Jr",
+
+    "SuperPower": "Incredible Speed"
+
+    },
+        
+
   ]
