@@ -123,5 +123,16 @@
     "Actor Name": "Paul Rudd",
     "SuperPower": "Ability to shrink"
     },
+  {
+
+    "Character Name": "Iron Man",
+
+    "Reel Name": "Taika Waititi",
+
+    "Actor Name": "Robert Downey Jr",
+
+    "SuperPower": "Incredible Speed"
+
+    },
         
   ]
