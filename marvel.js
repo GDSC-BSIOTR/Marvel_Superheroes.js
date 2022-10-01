@@ -116,13 +116,12 @@
     "Actor Name": "Jeremy Renner",
     "SuperPower": "Goliath"
     },
-    
-
-
-
-
-
-
+   {
+    "Character Name": "Vision",
+    "Reel Name": "vision",
+    "Actor Name": "Paul Bettany",
+    "SuperPower": "Superhuman intelligence, strength, speed Superhuman senses Density control (intangibility, invulnerability) Flight Regeneration Solar energy projection Holographic disguise Technopathy"
+    },
 {
     "Character Name": "AntMan",
     "Reel Name": "Scott Lang",
